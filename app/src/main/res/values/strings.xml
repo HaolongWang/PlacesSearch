@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Places Search</string>
+    <string name="google_maps_key">AIzaSyB6uoZXm7bR-3Hay3bpMSFdf1iAhnwx11E</string>
+
+    <string-array name="category_array">
+        <item> Default </item>
+        <item> Airport </item>
+        <item> Amusement Park </item>
+        <item> Aquarium </item>
+        <item> Art Gallery </item>
+        <item> Bakery </item>
+        <item> Bar </item>
+        <item> Beauty Salon </item>
+        <item> Bowling Alley </item>
+        <item> Bus Station </item>
+        <item> Cafe </item>
+        <item> Campground </item>
+        <item> Car Rental </item>
+        <item> Casino </item>
+        <item> Lodging </item>
+        <item> Movie Theater </item>
+        <item> Museum </item>
+        <item> Night Club </item>
+        <item> Park </item>
+        <item> Parking </item>
+        <item> Restaurant </item>
+        <item> Shopping Mall </item>
+        <item> Stadium </item>
+        <item> Subway Station </item>
+        <item> Taxi Stand </item>
+        <item> Train Station </item>
+        <item> Transit Station </item>
+        <item> Travel Agency </item>
+        <item> Zoo </item>
+    </string-array>
+    <string-array name="travel_models">
+        <item>driving</item>
+        <item>bicycling</item>
+        <item>transit</item>
+        <item>walking</item>
+    </string-array>
+    <string-array name="googleyelp">
+        <item>Google reviews</item>
+        <item>Yelp reviews</item>
+    </string-array>
+    <string-array name="gyrates">
+        <item>Default order</item>
+        <item>Highest rating</item>
+        <item>Lowest rating</item>
+        <item>Most Recent</item>
+        <item>Least Recent</item>
+    </string-array>
+</resources>
